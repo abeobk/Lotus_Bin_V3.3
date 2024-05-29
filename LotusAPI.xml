@@ -2772,6 +2772,12 @@ Log a debug message
 </summary>
             <param name="msg">message</param>
         </member>
+        <member name="M:LotusAPI.Logger.Success(System.String)">
+            <summary>
+Log a success message
+</summary>
+            <param name="msg">message</param>
+        </member>
         <member name="M:LotusAPI.Logger.Warn(System.String)">
             <summary>
 Log a warning message
