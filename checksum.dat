@@ -12,7 +12,7 @@ c22e9aaad0649e09df6e6460750acc71cd62a10b *./Automation.BDaq4.dll
 123fe310d1d035932b65fac5006209c4dcd692bf *./EntityFramework.dll
 61af24fd0248e322dbd61541b9a495e54837cc3f *./FastColoredTextBox.dll
 d8994271232f4cdebf51c89766131c4b3731336d *./firmware/AbeoScan_V4.3.img
-9fb9b2836d7b7bbb16206e7e8efb47f354f11ae2 *./firmware/lc4500_server_armhf_v43
+ee9d468d55d22532435079085e4831d5c199638c *./firmware/lc4500_server_armhf_api_3_3
 54522ecf8246ca4ef24e6174f69c0847a43e3cc4 *./FirmwareUpdate_MD_VC141_v3_1_Basler_pylon.dll
 30ed1fb26524dad0311e5ff278ca6116fc77f271 *./FLIR_GenTL_v140.cti
 68a08633dfdb2faffa7db82507752f1620556efd *./ftbusui.dll
