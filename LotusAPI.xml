@@ -977,6 +977,13 @@ Count overlap between two clouds (with custom matrices)
             <param name="thread_count">Number of threads</param>
             <returns>Number of overlaped points</returns>
         </member>
+        <member name="M:LotusAPI.MV.Pointcloud.Extract(LotusAPI.Math.Point2i[])">
+            <summary>
+Extract organized pointcloud by polygon boundary
+</summary>
+            <param name="poly">Polygon to extract</param>
+            <returns>pointcloud in polygon</returns>
+        </member>
         <member name="M:LotusAPI.MV.Pointcloud.Extract(LotusAPI.Math.Rect2i)">
             <summary>
 Extract organized pointcloud by ROI
